@@ -1,0 +1,29 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN STACK with ANGULAR 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urvi-S/MEAN-Stack-With-ANGULAR.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "ANGULAR",
+    "2"
+  ],
+  "author": "Urvi Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Urvi-S/MEAN-Stack-With-ANGULAR/issues"
+  },
+  "homepage": "https://github.com/Urvi-S/MEAN-Stack-With-ANGULAR#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.1"
+  }
+}
